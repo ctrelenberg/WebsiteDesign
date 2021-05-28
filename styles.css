@@ -28,7 +28,7 @@ body {
     color: transparent;
   }
   
-  .dark:hover, .dark:active {
+  .dark:hover {
     color: white;
   }
   
@@ -36,7 +36,7 @@ body {
     color: transparent;
   }
   
-  .light:hover, .light:active {
+  .light:hover {
     color: black;
   }
   
