@@ -1,0 +1,145 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  p {
+    font-size: 15px;
+    text-align: center;
+    margin: 37px 0;
+    padding: 0;
+  }
+  
+  header {
+    display: block;
+    width: 100%;
+    text-align: left
+  }
+  
+  .color {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin: 4px 2px;
+    text-align: center;
+  }
+  
+  .dark {
+    color: transparent;
+  }
+  
+  .dark:hover {
+    color: white;
+  }
+  
+  .light {
+    color: transparent;
+  }
+  
+  .light:hover {
+    color: black;
+  }
+  
+  #window {
+    max-height: 383px;
+    max-width: 1300px;
+    margin: 20px auto;
+    border: 3px solid grey;
+    overflow: scroll;
+  }
+  
+  #black {
+    background-color: black;
+  }
+  
+  #navy {
+    background-color: navy;
+  }
+  
+  #darkblue {
+    background-color: darkblue;
+  }
+  
+  #medblue {
+    background-color: mediumblue;
+  }
+  
+  #blue {
+    background-color: blue;
+  }
+  
+  #darkgreen {
+    background-color: darkgreen;
+  }
+  
+  #green {
+    background-color: green;
+  }
+  
+  #teal {
+    background-color: teal;
+  }
+  
+  #darkcyan {
+    background-color: darkcyan;
+  }
+  
+  #deepskyblue {
+    background-color: deepskyblue;
+  }
+  
+  #darkturquoise {
+    background-color: darkturquoise;
+  }
+  
+  #mediumspringgreen {
+    background-color: mediumspringgreen;
+  }
+
+  #lime {
+    background-color: lime;
+  }
+  
+  #springgreen {
+    background-color: springgreen;
+  }
+  
+  #aqua {
+    background-color: aqua;
+  }
+  
+  #cyan {
+    background-color: cyan;
+  }
+  
+  #midnightblue {
+    background-color: midnightblue;
+  }
+  
+  #dodgerblue {
+    background-color: dodgerblue;
+  }
+  
+  #lightseagreen {
+    background-color: lightseagreen;
+  }
+  
+  #forestgreen {
+    background-color: forestgreen;
+  }
+  
+  #seagreen {
+    background-color: seagreen;
+  }
+  
+  #darkslategray {
+    background-color: darkslategray;
+  }
+  
+  #darkslategrey {
+    background-color: darkslategrey;
+  }
+  
+  #limegreen {
+    background-color: limegreen;
+  }
