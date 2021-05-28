@@ -3,11 +3,21 @@ body {
     font-family: sans-serif;
   }
   
-  p {
+  .color p {
     font-size: 15px;
     text-align: center;
     margin: 37px 0;
     padding: 0;
+  }
+
+  .font p {
+    font-size: 15px;
+    text-align: center;
+    display: inline-block;
+    margin: 0;
+    position: relative;
+    left: 50px;
+    width: auto;
   }
   
   header {
@@ -20,10 +30,20 @@ body {
     text-decoration: underline;
   }
 
+  h3 {
+    font-size: 25px;
+    text-decoration: underline;
+    width: auto;
+    position: relative;
+    left: 50px;
+    display: block;
+  }
+
   .font {
     text-align: left;
     width: 500px;
-    border: 1px solid red;
+    display: inline-block;
+    margin: 20px;
   }
 
   .bold {
@@ -36,6 +56,14 @@ body {
 
   .limelight {
     font-family: 'Limelight', cursive;
+  }
+
+  .merriweather {
+    font-family: 'Merriweather', serif;
+  }
+
+  .zilla-slab {
+    font-family: 'Zilla Slab', serif;
   }
   
   .color {
@@ -62,8 +90,8 @@ body {
     color: black;
   }
   
-  #window {
-    max-height: 383px;
+  .section {
+    max-height: 400px;
     max-width: 1300px;
     margin: 20px auto;
     border: 3px solid grey;
