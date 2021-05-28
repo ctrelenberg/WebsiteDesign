@@ -15,6 +15,28 @@ body {
     width: 100%;
     text-align: left
   }
+
+  h2 {
+    text-decoration: underline;
+  }
+
+  .font {
+    text-align: left;
+    width: 500px;
+    border: 1px solid red;
+  }
+
+  .bold {
+    font-weight: 700;
+  }
+
+  .italic {
+    font-style: italic;
+  }
+
+  .limelight {
+    font-family: 'Limelight', cursive;
+  }
   
   .color {
     width: 150px;
